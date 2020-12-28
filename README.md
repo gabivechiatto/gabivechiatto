@@ -1,17 +1,17 @@
-<h1>✨ Oi, bem-vindx ao meu GitHub!! ✨<h1> 
+<h1>✨ Oi, bem-vindx ao meu GitHub!! ✨</h1> 
 
 
 
-🖥️ Sou desenvolvedora Front-End, com conhecimentos em HTML, CSS, JS, React.JS, Node.JS e Git.
+<p>🖥️ Sou desenvolvedora Front-End, com conhecimentos em HTML, CSS, JS, React.JS, Node.JS e Git.</p>
 
-📚 Atualmente sou graduanda de Análise e Desenvolvimento de Sistemas.
+<p>📚 Atualmente sou graduanda de Análise e Desenvolvimento de Sistemas.</p>
 
-🌱 Sempre em processo de evolução e aprendizado!
+<p>🌱 Sempre em processo de evolução e aprendizado!</p>
 
-⚡ Estou aberta a colaborações e processos seletivos!
-
-
+<p>⚡ Estou aberta a colaborações e processos seletivos!</p>
 
 
 
-<h3>#️⃣ Para contato, entrar no meu LinkedIn: https://www.linkedin.com/in/gabimesquita0607/ #️⃣<h3>
+
+
+<h3>#️⃣ Para contato, entrar no meu LinkedIn: https://www.linkedin.com/in/gabimesquita0607/ #️⃣</h3>
