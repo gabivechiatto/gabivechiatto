@@ -1,4 +1,4 @@
-✨ Oi, bem-vindx ao meu GitHub!! ✨
+<h1>✨ Oi, bem-vindx ao meu GitHub!! ✨<h1> 
 
 
 
@@ -12,4 +12,6 @@
 
 
 
-#️⃣ Para contato, entrar no meu LinkedIn: https://www.linkedin.com/in/gabimesquita0607/
+
+
+<h3>#️⃣ Para contato, entrar no meu LinkedIn: https://www.linkedin.com/in/gabimesquita0607/ #️⃣<h3>
