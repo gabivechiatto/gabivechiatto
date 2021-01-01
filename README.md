@@ -6,7 +6,7 @@
 
 <p>📚 Atualmente sou graduanda de Análise e Desenvolvimento de Sistemas.</p>
 
-<p>🌱 Sempre em processo de evolução e aprendizado!</p>
+<p>🌱 Sempre em evolução e aprendizado!</p>
 
 <p>⚡ Estou aberta a colaborações e processos seletivos!</p>
 
