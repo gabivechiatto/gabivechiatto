@@ -9,13 +9,14 @@
 
 
 <h2>💡 Conhecimentos:<h2>
-  <p><ul>
+  <ul>
     <li>JavaScript
     <li>HTML
     <li>CSS
     <li>Node.JS
     <li>Bootstrap
-    <li>Git</li></ul></p>
+    <li>Git</li>
+  </ul>
 
 
 <h2>#️⃣ Contato:</h2>
