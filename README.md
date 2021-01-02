@@ -1,10 +1,7 @@
 <h1>✨ Bem-vindx ao meu GitHub!</h1> 
 
 
-
-<p>🖥️ Sou desenvolvedora Front-End, com conhecimentos em HTML, CSS, JS, React.JS, Node.JS e Git.</p>
-
-<p>📚 Atualmente sou graduanda de Análise e Desenvolvimento de Sistemas.</p>
+<p>🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas.</p>
 
 <p>🌱 Sempre em evolução e aprendizado!</p>
 
