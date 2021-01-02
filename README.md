@@ -11,16 +11,16 @@
 <p>⚡ Estou aberta a colaborações e processos seletivos!</p>
 
 
-<h2>💡 Conhecimentos:<h2><hr>
-  <ul>
+<h2>💡 Conhecimentos:<h2>
+  <p><ul>
     <li>JavaScript
     <li>HTML
     <li>CSS
     <li>Node.JS
     <li>Bootstrap
-    <li>Git</li></ul>
+    <li>Git</li></ul></p>
 
 
-<h2>#️⃣ Contato:</h2><hr>
-  LinkedIn: https://www.linkedin.com/in/gabimesquita0607/
+<h2>#️⃣ Contato:</h2>
+ <p>LinkedIn: https://www.linkedin.com/in/gabimesquita0607/</p>
   
