@@ -1,4 +1,4 @@
-<h1>✨ Oi, bem-vindx ao meu GitHub!!</h1> 
+<h1>✨ Bem-vindx ao meu GitHub!</h1> 
 
 
 
@@ -11,7 +11,16 @@
 <p>⚡ Estou aberta a colaborações e processos seletivos!</p>
 
 
+<h2>💡 Conhecimentos:<h2><hr>
+  <ul>
+    <li>JavaScript
+    <li>HTML
+    <li>CSS
+    <li>Node.JS
+    <li>Bootstrap
+    <li>Git</li></ul>
 
 
-
-<h3>#️⃣ Para contato, entrar no meu LinkedIn: https://www.linkedin.com/in/gabimesquita0607/</h3>
+<h2>#️⃣ Contato:</h2><hr>
+  LinkedIn: https://www.linkedin.com/in/gabimesquita0607/
+  
