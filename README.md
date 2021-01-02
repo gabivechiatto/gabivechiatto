@@ -8,7 +8,7 @@
 <p>⚡ Estou aberta a colaborações e processos seletivos!</p>
 
 
-<h2>💡 Conhecimentos:<h2>
+<h2>💡 Conhecimentos:</h2>
     <li>JavaScript
     <li>HTML
     <li>CSS
