@@ -9,12 +9,12 @@
 
 
 <h2>💡 Conhecimentos:</h2>
-    <li>JavaScript
-    <li>HTML
-    <li>CSS
-    <li>Node.JS
-    <li>Bootstrap
-    <li>Git</li>
+    <img src="HCJ.png">
+    <img src="node.png">
+    <img src="react.png">
+    <img src="bootstrap.png">
+    <img src="git.png">
+    
 
 
 <h2>#️⃣ Contato:</h2>
