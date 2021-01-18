@@ -5,18 +5,17 @@
 
 <p>🌱 Sempre em evolução e aprendizado!</p>
 
-<p>⚡ Estou aberta a colaborações e processos seletivos!</p>
+<p>⚡ Estou aberta a colaborações e processos seletivos!</p><hr>
 
 
-<h2>💡 Conhecimentos:</h2>
+<p>💡 Conhecimentos:</p>
     <img src="HCJ.png">
     <img src="node.png">
     <img src="react.png">
     <img src="bootstrap.png">
-    <img src="git.png">
+    <img src="git.png"><hr>
     
 
 
-<h2>Contato:</h2> 
-<a rel=external href="https://www.linkedin.com/in/gabimesquita0607/" target="_blank"><img src="linkedin.png"></a>
+<p>Contato: <a href="https://www.linkedin.com/in/gabimesquita0607/"><img src="linkedin.png"></a></p>
   
