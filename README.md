@@ -1,5 +1,4 @@
-<h1>✨ Bem-vindx ao meu GitHub!</h1> 
-
+<h1>✨ Bem-vindx ao meu GitHub!</h1>
 
 <p>🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas.</p>
 
@@ -8,7 +7,7 @@
 <p>⚡ Estou aberta a colaborações e processos seletivos!</p><hr>
 
 
-<p>💡 Conhecimentos:</p>
+<h3>💡 Conhecimentos:</h3>
     <img src="HCJ.png">
     <img src="node.png">
     <img src="react.png">
@@ -17,5 +16,6 @@
     
 
 
-<p>Contato: <a href="https://www.linkedin.com/in/gabimesquita0607/"><img src="linkedin.png"></a></p>
+<h3>Contato:</h3> 
+<a href="https://www.linkedin.com/in/gabimesquita0607/"><img src="linkedin.png"></a>
   
