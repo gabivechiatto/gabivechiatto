@@ -18,5 +18,5 @@
 
 
 <h2>Contato:</h2> 
-<a rel=external href="https://www.linkedin.com/in/gabimesquita0607/" target=_"blank"><img src="linkedin.png"></a>
+<a rel=external href="https://www.linkedin.com/in/gabimesquita0607/" target="_blank"><img src="linkedin.png"></a>
   
