@@ -17,6 +17,6 @@
     
 
 
-<h2>#️⃣ Contato:</h2> 
-<a rel=external href="https://www.linkedin.com/in/gabimesquita0607/"><img src="linkedin.png"></a>
+<h2>Contato:</h2> 
+<a rel=external href="https://www.linkedin.com/in/gabimesquita0607/" target=_"blank"><img src="linkedin.png"></a>
   
