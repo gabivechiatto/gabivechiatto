@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=gabimesquita&color=ff69b4)
+<p align="center">![](https://komarev.com/ghpvc/?username=gabimesquita&color=ff69b4)</p>
 
 
 <h1>✨ Bem-Vindx ao meu GitHub! ✨</h1>
