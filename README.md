@@ -8,11 +8,11 @@
 
 
 <h3>💡 Conhecimentos:</h3>
-    <img src="HCJ.png" width="80">
-    <img src="node.png" width="80">
-    <img src="react.png" width="80">
-    <img src="bootstrap.png" width="80">
-    <img src="git.png" width="80"><hr>
+    <p>HTML CSS JAVASCRIPT</p> <img src="HCJ.png" width="80">
+    <p>NODE.JS</p> <img src="node.png" width="80">
+    <p>REACT.JS</p> <img src="react.png" width="80">
+    <p>BOOTSTRAP</p> <img src="bootstrap.png" width="80">
+    <p>GIT</p> <img src="git.png" width="80"><hr>
     
 
 
