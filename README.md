@@ -9,9 +9,10 @@
 
 <h3>💡 Conhecimentos:</h3>
     <ul>
-    <li>HTML, CSS, JavaScript 
-    <li>Node.JS 
-    <li>React.JS 
+    <li>HTML & CSS
+    <li>JavaScript 
+    <li>Node JS 
+    <li>React JS 
     <li>Bootstrap 
     <li>Versionamento em Git
     </ul> 
