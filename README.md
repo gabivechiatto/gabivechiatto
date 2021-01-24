@@ -22,7 +22,7 @@
 <h3>🔋 GitHub Stats:</h3>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabimesquita&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabimesquita&show_icons=true&locale=en&layout=compact" alt="gabimesquita">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabimesquita&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabimesquita">
 </p>
 
 
