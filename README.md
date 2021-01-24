@@ -4,7 +4,7 @@
 <h1>✨ Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Bem-Vindx ao meu GitHub! ✨</h1>
 
 
-<h3>🖥️ Sou Dev Front-End e estudante de Análise e Desenvolvimento de Sistemas.</h3><hr>
+<h3>🖥️ Sou Dev Front-End e estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
 
 <h3>📲 Contato:</h3>
