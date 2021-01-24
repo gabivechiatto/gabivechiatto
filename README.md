@@ -8,11 +8,13 @@
 
 
 <h3>💡 Conhecimentos:</h3>
-    <p>HTML CSS JAVASCRIPT</p> <img src="HCJ.png" width="80">
-    <p>NODE.JS</p> <img src="node.png" width="80">
-    <p>REACT.JS</p> <img src="react.png" width="80">
-    <p>BOOTSTRAP</p> <img src="bootstrap.png" width="80">
-    <p>GIT</p> <img src="git.png" width="80"><hr>
+    <ul>
+    <li>HTML, CSS, JavaScript 
+    <li>Node.JS 
+    <li>React.JS 
+    <li>Bootstrap 
+    <li>Versionamento em Git
+    </ul> 
     
 
 
