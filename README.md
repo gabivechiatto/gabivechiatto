@@ -20,7 +20,7 @@
   <li>HTML & CSS
   <li>Bootstrap
   <li>JQuery    
-  <li>Java
+  <li>Python
   <li>PHP
   <li>MySQL
  </ul><hr>
