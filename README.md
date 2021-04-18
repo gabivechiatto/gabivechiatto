@@ -4,7 +4,7 @@
 <h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Welcome to my GitHub!</h1>
 
 
-<h2>🖥️ I'm a Front-End Developer and student of Software Development!</h2></br>
+<h2>🖥️ I'm a Front-End Developer and student of Software Development!</h2>
     
 <h3>💡 Habilities & Tools:</h3>
 <ul>
