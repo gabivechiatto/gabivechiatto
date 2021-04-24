@@ -8,13 +8,12 @@
     
 <h3>💡 Habilities & Tools:</h3>
 <ul>
-  <li>JavaScript
-  <li>HTML & CSS
-  <li>Bootstrap
-  <li>JQuery    
+  <li>JavaScript / TypeScript
+  <li>HTML / CSS / SASS
+  <li>React.JS / Next.JS
+  <li>Java
   <li>Python
-  <li>PHP
-  <li>MySQL
+  <li>PHP / MySQL / Apache  
  </ul><hr>
 
 
