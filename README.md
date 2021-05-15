@@ -10,8 +10,7 @@
 <ul>
   <li>JavaScript / TypeScript
   <li>HTML / CSS / SASS
-  <li>React.JS / Next.JS
-  <li>Java
+  <li>React.JS / Next.JS  
   <li>Python
   <li>PHP / MySQL / Apache  
  </ul><hr>
