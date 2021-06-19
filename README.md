@@ -4,19 +4,20 @@
 <h1>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Welcome to my GitHub!</h1>
 
 
-<h2>🖥️ Front-End Developer and student of Software Development!</h2>
-    
-<h3>💡 Habilities & Tools:</h3>
-<ul>
-  <li>JavaScript / TypeScript
-  <li>HTML / CSS / SASS
-  <li>React.JS / Next.JS  
-  <li>Python
-  <li>PHP / MySQL / Apache  
- </ul><hr>
+<div style="display: inline_block"><br>    
+    <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+<div> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+</div>
 
 
-<h3>🔋 GitHub Stats:</h3>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gabimesquita&show_icons=true&theme=tokyonight&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabimesquita&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gabimesquita">
