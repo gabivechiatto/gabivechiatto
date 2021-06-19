@@ -10,7 +10,7 @@
 </div>
 
 <div> 
-  ![Snake animation](https://github.com/gabimesquita/gabimesquita/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabimesquita/gabimesquita/workflows/cobrinha.yml)
 </div>
 
 <div>
