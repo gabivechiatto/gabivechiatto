@@ -14,9 +14,7 @@
 <div>
   <a href="https://github.com/gabivechiatto">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabivechiatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&layout=compact&langs_count=16&theme=dracula"/>    
- 
-  ![Snake animation](https://github.com/gabivechiatto/gabivechiatto/blob/output/github-contribution-grid-snake.svg) 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&layout=compact&langs_count=16&theme=dracula"/>      
 </div>
 
   
