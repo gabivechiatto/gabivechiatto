@@ -11,15 +11,16 @@ Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalab
 
 <div style="display: inline_block" align="center"></br>    
   <h2>⚙️ Tools</h2>
-  <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabi-Next" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg">
-  <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-  <img align="center" alt="Gabi-Jest" width="30" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-  <img align="center" alt="Gabi-Cypress" width="30" height="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg">
-  <img align="center" alt="Gabi-Git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Gabi-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabi-Ts" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gabi-React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabi-Next" title="Next" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg">
+  <img align="center" alt="Gabi-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabi-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Gabi-SASS" title="SASS" width="30" height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
+  <img align="center" alt="Gabi-Jest" title="Jest" width="30" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+  <img align="center" alt="Gabi-Cypress" title="Cypress" width="30" height="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg">
+  <img align="center" alt="Gabi-Git" title="Git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </div>
 
 
