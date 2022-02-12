@@ -4,8 +4,10 @@
   
 Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalabs) 💙
 
-<h3 align="left">Social:</h3>
+<div style="display: inline_block"></br>
+<h3>Social:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/gvechiatto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabivechiatto" height="30" width="40"/></a></p>
+</div>
 
 <div style="display: inline_block" align="center"></br>    
   <h2>⚙️ Tools</h2>
