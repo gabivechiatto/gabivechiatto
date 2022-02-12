@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabivechiatto&label=Profile%20views&color=0e75b6&style=flat" alt="gabivechiatto" />
   
-Brazilian front-end developer working on [Luizalabs](https://www.magazineluiza.com.br/) 💙
+Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalabs) 💙
 
 <h3 align="left">Social:</h3>
 <p align="left">
@@ -18,6 +18,7 @@ Brazilian front-end developer working on [Luizalabs](https://www.magazineluiza.c
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="Gabi-Jest" width="30" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+  <img align="center" alt="Gabi-Cypress" width="30" height="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg">
 </div>
 
 
