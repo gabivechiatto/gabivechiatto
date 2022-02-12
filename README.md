@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabivechiatto&label=Profile%20views&color=0e75b6&style=flat" alt="gabivechiatto" />
   
-Brazilian front-end developer working on [Luizalabs][Magalu](https://www.magazineluiza.com.br/)
+Brazilian front-end developer working on [Luizalabs](https://www.magazineluiza.com.br/)
 
 <h3 align="left">Social:</h3>
 <p align="left">
