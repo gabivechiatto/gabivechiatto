@@ -19,6 +19,7 @@ Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalab
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="Gabi-Jest" width="30" height="30" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
   <img align="center" alt="Gabi-Cypress" width="30" height="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cypress.svg">
+  <img align="center" alt="Gabi-Git" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </div>
 
 
