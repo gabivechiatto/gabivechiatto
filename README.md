@@ -34,5 +34,5 @@ Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalab
 
 <div align="center"></br>  
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=gabivechiatto&theme=nord&column=7" 
+  <img src="https://github-profile-trophy.vercel.app/?username=gabivechiatto&theme=dracula&column=7" 
 </div>
