@@ -4,12 +4,11 @@
   
 Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalabs) 💙
 
-<div style="display: inline_block">
-  <h3>Social:</h3>
+<h3>Social:</h3>
   <p><a href="https://www.linkedin.com/in/gvechiatto/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="gabivechiatto"/></a></p>
-</div>
+  
 
-<div style="display: inline_block" align="center"></br>    
+<div style="display: inline_block" align="center">
   <h2>⚙️ Tools</h2>
   <img align="center" alt="Gabi-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-Ts" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
