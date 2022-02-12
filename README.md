@@ -9,8 +9,6 @@
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
 </div>
 
-##
-
 <div align="center">
   <h2>🚩 GitHub Flags</h2>
   <a href="https://github.com/gabivechiatto">
@@ -23,11 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabivechiatto&theme=dark">
 </div>
 
-## 
-
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=gabivechiatto&theme=nord&column=7" 
 </div>
-
-  
