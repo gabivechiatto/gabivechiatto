@@ -31,9 +31,3 @@ Front-end developer working on [Valtech](https://www.valtech.com/)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&layout=compact&langs_count=16&theme=dracula"/>    
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabivechiatto&theme=dracula">
 </div>
-  
-
-<div align="center"></br>  
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=gabivechiatto&theme=dracula&column=7" 
-</div>
