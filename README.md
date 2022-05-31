@@ -12,7 +12,7 @@ Brazilian front-end developer working on [Luizalabs](https://medium.com/luizalab
   <img align="center" alt="Gabi-Js" title="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-Ts" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabi-React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabi-Next" title="Next" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg">
+  <img align="center" alt="Gabi-Next" title="Next" width="30" height="30" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg">
   <img align="center" alt="Gabi-Node" title="Node" width="30" height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
   <img align="center" alt="Gabi-Java" title="Java" width="30" height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <img align="center" alt="Gabi-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
