@@ -1,10 +1,10 @@
 ## Hi! Welcome to my GitHub!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabivechiatto&label=Profile%20views&color=0e75b6&style=flat" alt="gabivechiatto" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=gabivechiatto&label=Profile%20views&color=0e75b6&style=flat" alt="gabivechiatto" />
   
 Front-end developer working on [Valtech](https://www.valtech.com/)
 
-<p><a href="https://www.linkedin.com/in/gvechiatto/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="gabivechiatto"/></a></p>
+<a href="https://www.linkedin.com/in/gvechiatto/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="gabivechiatto"/></a>
   
 
 <div style="display: inline_block" align="center">
