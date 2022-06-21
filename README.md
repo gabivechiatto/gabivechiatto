@@ -19,10 +19,10 @@
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/gabivechiatto">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabivechiatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&layout=compact&langs_count=16&theme=dracula"/>
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gabivechiatto&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&theme=tokyonight">
+</p>
 
 ## 🎯 Social 
 
