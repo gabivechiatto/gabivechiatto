@@ -14,15 +14,13 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 </p>
 
-
-<div align="center"></br>  
 ## ⭐ GitHub Stats
 
-  <a href="https://github.com/gabivechiatto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabivechiatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&layout=compact&langs_count=16&theme=dracula"/>    
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabivechiatto&theme=dracula">
-</div>
+<a href="https://github.com/gabivechiatto">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabivechiatto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&layout=compact&langs_count=16&theme=dracula"/>    
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabivechiatto&theme=dracula">
+
 
 ## 🎯 Social 
 
