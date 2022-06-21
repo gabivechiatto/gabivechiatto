@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="52" alt="html logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="52" alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  /> 
-  <img src="https://raw.githubusercontent.com/gabivechiatto/gabivechiatto/master/images/nodejs.png" height="40" width="52" alt="nodejs logo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" height="40" width="52" alt="node logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />  
 </div>
 
