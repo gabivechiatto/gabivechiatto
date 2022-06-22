@@ -1,29 +1,55 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gabivechiatto&label=Profile%20views&color=0e75b6&style=flat" alt="gabivechiatto" />
-  
-
-## 💻 Technologies & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react" title="ReactJS" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="next" title="NextJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript" title="JavaScript" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="52" alt="html" title="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="52" alt="css" title="CSS" />    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="node" title="NodeJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="52" alt="express" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest" title="Jest" />  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="52" alt="git" title="Git" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ga.ga&left_color=royalblue&right_color=coral&left_text=Profile views"  />
 </div>
 
-## ⭐ GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabivechiatto&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabivechiatto&theme=tokyonight">
-</p>
+<h2 align="left">💻 Technologies & Tools</h2>
 
-## 🎯 Social 
+###
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gvechiatto/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
+</div>
 
+###
+
+<h2 align="left">⭐ GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gabivechiatto" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gabivechiatto" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">🎯 Social</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gvechiatto/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="GabiVech#0727" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="vech.gabi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
