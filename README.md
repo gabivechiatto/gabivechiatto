@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabivechiatto.gabivechiatto&left_color=royalblue&right_color=coral&left_text=Profile views"  />
-</div>
-
 ###
 
 <h2 align="left">💻 Technologies & Tools</h2>
