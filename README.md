@@ -37,17 +37,3 @@
 <h2 align="left">🎯 Social</h2>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gvechiatto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" title="linkedin" />
-  </a>
-  <a href="GabiVech#0727" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord"  title="discord" />
-  </a>
-  <a href="vech.gabi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" title="gmail" />
-  </a>
-</div>
-
-###
